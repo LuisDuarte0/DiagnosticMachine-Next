@@ -72,8 +72,8 @@ Antes de começar, certifique-se de que você possui:
 
 ## Contribuição
 
-    RM: 558832 - Maria Eduarda Alves da Paixão
     RM: 555181 - Luis Carlos Moreira Duarte
+    RM: 558832 - Maria Eduarda Alves da Paixão
     RM: 555136 - Larissa de Freitas
 
 ## Acesse o site
@@ -82,5 +82,5 @@ Antes de começar, certifique-se de que você possui:
    
 ## Contato
     Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-    - Nome: Maria Eduarda
-    - E-mail: mariapaixao0807@gmail.com
+    - Nome: Luis Duarte
+    - E-mail: luiscmduarte077@gmail.com
